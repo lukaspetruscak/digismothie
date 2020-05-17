@@ -1,0 +1,23 @@
+.selectDropdown {
+    min-width: 70px;
+    color: rgb(51, 51, 51);
+    -webkit-appearance: none;
+    background-image: url(https://candyrack.ds-cdn.com/static/media/select.fa731aa9.svg);
+    background-color: rgb(255, 255, 255);
+    padding: 4px 28px 4px 14px;
+    border-radius: 3px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(51, 51, 51);
+    border-image: initial;
+    background-repeat: no-repeat;
+    background-position: right 10px center;
+ }
+
+.selectDropdown:hover {
+    background-color: rgb(229,229,229);
+}
+
+ .optionDropdown {
+     background-color: rgb(229,229,229);
+ }
